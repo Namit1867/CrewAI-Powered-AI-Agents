@@ -1,0 +1,26 @@
+,task_id,task_name,estimated_time_hours,required_resources
+0,1.1,Initial meeting to discuss requirements and expectations,8.0,"['John Doe', 'Stakeholders']"
+1,1.2,Detailed documentation of the project requirements,16.0,['John Doe']
+2,2.1,Create wireframes for all pages,24.0,['Bob Smith']
+3,2.2,Develop responsive design mockups,40.0,['Bob Smith']
+4,2.3,Review and approval of design mockups,16.0,"['Bob Smith', 'John Doe', 'Team']"
+5,3.1,Setup development environment,8.0,['Jane Doe']
+6,3.2,Create a responsive design framework,24.0,"['Jane Doe', 'Bob Smith']"
+7,3.3,Implement User Interface designs,40.0,"['Jane Doe', 'Bob Smith']"
+8,3.4,Develop navigation system,16.0,['Jane Doe']
+9,3.5,"Code various pages (About Us, Services, Contact Us including form and map)",72.0,['Jane Doe']
+10,3.6,Implement blog section,24.0,['Jane Doe']
+11,3.7,Optimize website for fast loading times and SEO,32.0,['Jane Doe']
+12,3.8,Integrate social media features,16.0,['Jane Doe']
+13,3.9,Code testimonials section,16.0,['Jane Doe']
+14,4.1,Write test cases and scripts,24.0,"['Alice Johnson', 'Tom Brown']"
+15,4.2,Perform functional testing on all features,32.0,"['Alice Johnson', 'Tom Brown']"
+16,4.3,Perform responsive testing on various devices and browsers,24.0,"['Alice Johnson', 'Tom Brown']"
+17,4.4,Conduct performance and SEO testing,16.0,['Alice Johnson']
+18,4.5,Review feedback and debug issues,24.0,['Jane Doe']
+19,5.1,Prepare deployment environment,8.0,['Jane Doe']
+20,5.2,Deploy website on live server,8.0,['Jane Doe']
+21,5.3,Final review and client walkthrough,16.0,['John Doe']
+22,5.4,Gather final client feedback and perform last modifications,24.0,['All team']
+23,6.1,Monitor website performance and user feedback,16.0,['All team']
+24,6.2,Provide ongoing support and maintenance,0.0,['All team']
